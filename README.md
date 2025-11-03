@@ -26,9 +26,9 @@ Outside of data, I enjoy cooking, music, and the ongoing challenge of trying to 
 
 ## 🏆 Certifications
 
-| [Alteryx] | [Tableau] |
-|:---:|:---:|
-| ![Alteryx](https://www.credly.com/badges/6bccbfe4-0246-4c3e-a3d9-a5734594322b/public_url) | ![Tableau](https://www.credly.com/badges/99d03a5f-f159-4ca0-8747-62bacfc344d7/embedded) |
+| [Alteryx Cert Name] | Tableau Data Analyst | [Snowflake Cert Name] |
+|:---:|:---:|:---:|
+| <a href="https://www.credly.com/badges/6bccbfe4-0246-4c3e-a3d9-a5734594322b/public_url"><img src="https://images.credly.com/size/220x220/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" alt="Alteryx Certification Badge" width="150"></a> | <a href="[PASTE_TABLEAU_VERIFY_URL_HERE]"><img src="" alt="Tableau Certification Badge" width="150"></a> | <a href="[PASTE_SNOWFLAKE_VERIFY_URL_HERE]"><img src="[PASTE_SNOWFLAKE_IMAGE_URL_HERE]" alt="Snowflake Certification Badge" width="150"></a> |
 
 ## 📫 How to Reach Me
 
